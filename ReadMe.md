@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍🚀 About Me<br><br>Hey, I'm Atharv — a builder, developer, and AI enthusiast.<br><br>I don't just write code, I build products 🚀  <br>From chatbots and AI assistants to full-stack apps — I enjoy turning ideas into reality.<br><br>🔹 Currently working on:<br>- AI-powered applications  <br>- Chatbot platforms  <br>- Real-time systems  <br><br>🔹 Tech Stack:<br>React • JavaScript • Firebase • Python • AI/ML  <br><br>🎯 Mission: Build impactful tech + achieve a 20 LPA+ role  <br><br>If it's innovative, I'm probably building it.
+ 👨‍🚀 <br><br>Hey, I'm Atharv — a builder, developer, and AI enthusiast.<br><br>I don't just write code, I build products 🚀  <br>From chatbots and AI assistants to full-stack apps — I enjoy turning ideas into reality.<br><br>🔹 Currently working on:<br>- AI-powered applications  <br>- Chatbot platforms  <br>- Real-time systems  <br><br>🔹 Tech Stack:<br>React • JavaScript • Firebase • Python • AI/ML  <br><br>🎯 Mission: Build impactful tech + achieve a 20 LPA+ role  <br><br>If it's innovative, I'm probably building it.
 
 
 ## 🌐 Socials:
